@@ -5,8 +5,7 @@ Provisioning and Securing AWS EC2, EFS, and VPC Networking.
 ## 📋 Project Overview
 This project documents the end-to-end provisioning of a secure cloud environment on AWS for a simulated corporate migration. It covers virtual machine deployment, identity management, shared storage architecture, and VPC networking.
 
-**[👉 Click here to view the Full Project PDF](./AWS_Cloud_Infrastructure_Project_Burel_Ngandhi.pdf)**
-
+**[👉 Click here to view the Full Project PDF](./YOUR_EXACT_FILENAME_HERE.pdf)**
 ## 🛠️ Skills Demonstrated
 * **Compute:** Provisioning Ubuntu Linux & Windows Server 2022 via EC2.
 * **Storage:** Configuring Amazon EFS (Elastic File System) and S3 buckets.
